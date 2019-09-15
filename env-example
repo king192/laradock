@@ -228,6 +228,7 @@ MYSQL_ENTRYPOINT_INITDB=./mysql/docker-entrypoint-initdb.d
 ### REDIS #################################################
 
 REDIS_PORT=6379
+REDIS1_PORT=6378
 
 ### REDIS CLUSTER #########################################
 

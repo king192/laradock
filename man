@@ -1,0 +1,17 @@
+1.vhost
+
+2.2 redis
+
+3.change conf(config dir)
+
+4.install more container
+
+5.install more component
+
+6.data dir
+
+7.change container version
+
+8.nginx rewrite
+
+9.how to reload the config
